@@ -46,6 +46,4 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,firebase,git,github,vscode,html,css,js,react,nodejs,mysql"/>
 </p>
-![](https://komarev.com/ghpvc/?username=JoySherly&color=blue)
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoySherly&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-[![Salman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?JoySherly=YOUR_USERNAME&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
